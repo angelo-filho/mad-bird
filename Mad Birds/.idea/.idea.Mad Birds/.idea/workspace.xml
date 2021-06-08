@@ -4,11 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ea981e-0851-49c3-9175-e417cca7b200" name="Default Changelist" comment="" />
+    <list default="true" id="05ea981e-0851-49c3-9175-e417cca7b200" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mad Birds/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mad Birds/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bird.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bird.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cloud Particles.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cloud Particles.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cloud.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cloud.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Full-Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Full-Background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LevelController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LevelController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster/Monster-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster/Monster-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster/Monster-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster/Monster-2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster/Monster.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster/Monster.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster/frame-2.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster/frame-2.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteArrow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteArrow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteArrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteArrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/bird_animation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/bird_animation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/cloud-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/cloud-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/crates_study_x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/crates_study_x2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-1 (1).controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-1 (1).controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/frame-8.png.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -16,9 +70,11 @@
       <option value="$PROJECT_DIR$/Assets/Enemy.cs" />
       <option value="$PROJECT_DIR$/Assets/Bird.cs" />
       <option value="$PROJECT_DIR$/Assets/LevelController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1tb8tLRe4p53CnUpfgkOlgMPpcH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,6 +130,7 @@
       <workItem from="1623178039460" duration="991000" />
       <workItem from="1623179082168" duration="458000" />
       <workItem from="1623179637424" duration="3582000" />
+      <workItem from="1623188419377" duration="28000" />
     </task>
     <servers />
   </component>

@@ -20,10 +20,10 @@ public class LevelController : MonoBehaviour
             {
                 return;
             }
-
-            string nextLevelName = "level" + _nextLevelIndex;
-            
-            SceneManager.LoadScene(nextLevelName);
         }
+        
+        string nextLevelName = "level" + _nextLevelIndex;
+            
+        SceneManager.LoadScene(nextLevelName);
     }
 }
