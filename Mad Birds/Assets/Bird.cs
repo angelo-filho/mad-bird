@@ -8,7 +8,7 @@ public class Bird : MonoBehaviour
     private float _timeSittingAround;
 
 
-    [SerializeField] private float _lauchPower = 500;
+    [SerializeField] private float _launchPower;
 
 
     private void Awake()
@@ -27,10 +27,10 @@ public class Bird : MonoBehaviour
             _timeSittingAround += Time.deltaTime;
         }
         
-        if (transform.position.y > 10 ||
-            transform.position.y < -10 ||
-            transform.position.x > 10 ||
-            transform.position.x < -10 ||
+        if (transform.position.y > 20 ||
+            transform.position.y < -20 ||
+            transform.position.x > 20 ||
+            transform.position.x < -20 ||
             _timeSittingAround > 3)
         {
             string currentSceneName = SceneManager.GetActiveScene().name;
@@ -49,7 +49,7 @@ public class Bird : MonoBehaviour
         GetComponent<SpriteRenderer>().color = Color.white;
 
         Vector2 directionToInitialPosition = _initialPosition - transform.position;
-        GetComponent<Rigidbody2D>().AddForce(directionToInitialPosition * _lauchPower);
+        GetComponent<Rigidbody2D>().AddForce(directionToInitialPosition * _launchPower);
         GetComponent<Rigidbody2D>().gravityScale = 1;
 
         _birdWasLaunched = true;
